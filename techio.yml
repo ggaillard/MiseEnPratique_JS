@@ -12,6 +12,4 @@ plan:
 
   - title: Langages et OS
     statement: markdowns/langages.md
-    
-projects:
 
