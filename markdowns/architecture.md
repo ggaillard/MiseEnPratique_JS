@@ -1,6 +1,6 @@
 # Pourquoi Javascript est toujours aussi utilisé
 
-# Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/00_cours_debut_info.pdf) est disponible sur le site de l'IREM.
+# Les [supports du cours](https://docs.google.com/document/d/19rNeuJvySVD3sAN4KCg60wD6W3I8H0R8Dg7BPuetwGc/edit?usp=sharing) est disponible sur l'ENT.
 
 ?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
 -[ ] La diode
