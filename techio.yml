@@ -3,7 +3,7 @@ plan:
 - title: Introduction
   statement: markdowns/intro.md
 - title: Pourquoi le langage Javascript
-  statement: markdowns/architecture.md
+  statement: markdowns/PourquoiJavascript.md
 - title: Apprendre à compter
   statement: markdowns/binaire.md
 - title: Langages et OS
