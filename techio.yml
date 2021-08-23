@@ -2,7 +2,7 @@ title: Javascript par la pratique
 plan:
 - title: Introduction
   statement: markdowns/intro.md
-- title: Fonctionnement des machines informatiques
+- title: Pourquoi le langage Javascript
   statement: markdowns/architecture.md
 - title: Apprendre à compter
   statement: markdowns/binaire.md
