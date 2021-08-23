@@ -1,15 +1,10 @@
-title : Exercices sur l'histoire et les principes de l'informatique
-
+title: Javascript par la pratique
 plan:
-  - title: Introduction
-    statement: markdowns/intro.md
-
-  - title: Fonctionnement des machines informatiques
-    statement: markdowns/architecture.md
-
-  - title: Apprendre à compter
-    statement: markdowns/binaire.md
-
-  - title: Langages et OS
-    statement: markdowns/langages.md
-
+- title: Introduction
+  statement: markdowns/intro.md
+- title: Fonctionnement des machines informatiques
+  statement: markdowns/architecture.md
+- title: Apprendre à compter
+  statement: markdowns/binaire.md
+- title: Langages et OS
+  statement: markdowns/langages.md
