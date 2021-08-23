@@ -1,4 +1,4 @@
-# Fonctionnement des machines informatiques
+# Pourquoi Javascript est toujours aussi utilisé
 
 # Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/00_cours_debut_info.pdf) est disponible sur le site de l'IREM.
 
