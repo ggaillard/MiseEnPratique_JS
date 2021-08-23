@@ -17,6 +17,4 @@ Un simple projet Nodejs dédié à l'exécution de l'exercice de programmation c
 Ce fichier obligatoire décrit à la fois la table des matières et le(s) projet(s) de programmation. Le chemin du fichier ne doit pas être modifié.
 
 
-# Visual and Interactive Content
-
-Tech.io provides all the tools to embed visual and interactive content like a Web app or a Unix terminal within your contribution. Please refer to the [documentation](https://tech.io/doc) to learn more about the viewer integrations.
+Tech.io fournit tous les outils pour intégrer du contenu visuel et interactif comme une application Web ou un terminal Unix dans votre contribution. Veuillez vous référer à la [documentation](https://tech.io/doc) pour en savoir plus sur les intégrations de la visionneuse.
