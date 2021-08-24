@@ -8,3 +8,5 @@ plan:
   statement: markdowns/binaire.md
 - title: Langages et OS
   statement: markdowns/langages.md
+- title: Les variables
+  statement: markdowns/lesVariables.md
