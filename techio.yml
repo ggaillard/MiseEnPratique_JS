@@ -13,8 +13,8 @@ plan:
   statement: markdowns/langages.md
   
 - title: Les variables
-  statement: markdowns/langages.md
-# markdowns/lesVariables.md
+  statement: markdowns/lesVariables.md
+
   
   projects:
    nodejs:
