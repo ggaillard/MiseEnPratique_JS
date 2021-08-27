@@ -1,8 +1,4 @@
-# La décalarion des variables.
-
-
-console.log('Hello World!');
-
+# La déclaration des variables.
 
 // Créez ci-dessous les variables demandées
 
