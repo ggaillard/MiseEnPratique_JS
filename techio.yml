@@ -12,8 +12,8 @@ plan:
 - title: Langages et OS
   statement: markdowns/langages.md
   
-- title: Les variables
-  statement: markdowns/lesVariables.md
+#- title: Les variables
+#  statement: markdowns/lesVariables.md
   
   projects:
   js:
