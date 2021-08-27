@@ -1,7 +1,7 @@
 title: Javascript par la pratique
 plan:
-- title: Introduction
-  statement: markdowns/intro.md
+#- title: Introduction
+ # statement: markdowns/intro.md
   
 - title: Pourquoi le langage Javascript
   statement: markdowns/PourquoiJavascript.md
