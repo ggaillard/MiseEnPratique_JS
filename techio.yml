@@ -14,7 +14,6 @@ plan:
   
 - title: Les variables
   statement: markdowns/lesVariables.md
-  
  projects:
    nodejs:
      root: /js_project
