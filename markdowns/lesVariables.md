@@ -26,7 +26,7 @@ Et voici l'interface dans la console tech.io.
 
 function createParagraph() {
   let para = document.createElement('p');
-  para.textContent = 'Vous avez cliqué !';
+  para.textContent = 'Hello Word!';
   document.body.appendChild(para);
 }
 ```
@@ -35,13 +35,13 @@ function createParagraph() {
 </div>
 ```
 
-test
+Pour pouvoir faire le test dans la même page, nous rajoutonsla balise `<script>` en HTML
 
 ```html runnable
-<script >
+<script>
 function createParagraph() {
   let para = document.createElement('p');
-  para.textContent = 'Vous avez cliqué !';
+  para.textContent = 'Hello Word !';
   document.body.appendChild(para);
 }
 </script>
