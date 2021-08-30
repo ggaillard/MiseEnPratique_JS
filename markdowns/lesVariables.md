@@ -60,7 +60,7 @@ function createParagraph() {
 ```
 
 Pour pouvoir faire le test dans la même page, nous rajoutons la balise `<script>` en HTML.
-Dans la pratique, il vaut mieux écrire le code Javascprit dans un autre fichier. `<script src="javascript.js"></script>`
+
 
 ```html runnable
 <script>
@@ -73,6 +73,10 @@ function createParagraph() {
 <button onclick="createParagraph()">Cliquez-moi!</button>
 </div>
 
+```
+Dans la pratique, il vaut mieux écrire le code Javascript dans un autre fichier. 
+```javascript
+<script src="javascript.js"></script>
 ```
 
 ## Déclaration des variables
