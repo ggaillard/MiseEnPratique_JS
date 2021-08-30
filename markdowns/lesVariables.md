@@ -1,7 +1,7 @@
 # JavaScript - Les variables
 
 # Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur l'ENT.  
-La méthode #console.log()# envoie un message à la console Web. Le message peut être une chaîne unique (avec des valeurs de substitution facultatives), ou il peut s'agir d'un ou plusieurs objets JavaScript.
+La méthode __console.log()__ envoie un message à la console Web. Le message peut être une chaîne unique (avec des valeurs de substitution facultatives), ou il peut s'agir d'un ou plusieurs objets JavaScript.
 
 ```javascript runnable
 console.log('Hello World!');
