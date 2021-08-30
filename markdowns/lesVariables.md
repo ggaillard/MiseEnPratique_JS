@@ -6,10 +6,28 @@
 Pour afficher un morceau de code, nous utilisons la syntaxe suivante :
 ````
 ```javascript
+function createParagraph() {
+  let para = document.createElement('p');
+  para.textContent = 'Vous avez cliqué !';
+  document.body.appendChild(para);
+}
+```
+```html
+<button onclick="createParagraph()">Cliquez-moi!</button>
+````
+````
+La méthode __console.log()__ envoie un message à la console Web. Le message peut être une chaîne unique  ou il peut s'agir d'un ou plusieurs objets JavaScript.
+
+```javascript 
+console.log('Hello World!');
+```
+Pour une utilisation de base, vous pouvez rendre un simple morceau de code exécutable. Pour cela, vous devez ajouter lemot - clé : `runnable`
+
+````
+```javascript runnable
 console.log('Hello World!');
 ```
 ````
-La méthode __console.log()__ envoie un message à la console Web. Le message peut être une chaîne unique (avec des valeurs de substitution facultatives), ou il peut s'agir d'un ou plusieurs objets JavaScript.
 
 ```javascript runnable
 console.log('Hello World!');
