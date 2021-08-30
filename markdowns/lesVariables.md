@@ -37,7 +37,7 @@ function createParagraph() {
 
 test
 
-```html running
+```html runnable
 function createParagraph() {
   let para = document.createElement('p');
   para.textContent = 'Vous avez cliqué !';
