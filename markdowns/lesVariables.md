@@ -38,11 +38,13 @@ function createParagraph() {
 test
 
 ```html runnable
+<script >
 function createParagraph() {
   let para = document.createElement('p');
   para.textContent = 'Vous avez cliqué !';
   document.body.appendChild(para);
 }
+</script>
 <button onclick="createParagraph()">Cliquez-moi!</button>
 </div>
 
