@@ -1,12 +1,28 @@
-# JavaScript - Les variables
+# JavaScript - Stocker les informations avec les variables
 
 # Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur l'ENT.  
+
+## Afficher un morceau de code en Javacript
+Pour afficher un morceau de code, nous utilisons la syntaxe suivante :
+````
+```javascript
+console.log('Hello World!');
+```
+````
 La méthode __console.log()__ envoie un message à la console Web. Le message peut être une chaîne unique (avec des valeurs de substitution facultatives), ou il peut s'agir d'un ou plusieurs objets JavaScript.
 
 ```javascript runnable
 console.log('Hello World!');
 ```
 ## Déclaration des variables
+
+Voici un morceau de code avec la déclaration de variables
+
+```javascript 
+var a = 2;
+var b = 6;
+console.log(a+b);
+```
 
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
 - __num__ qui contient le nombre 255  
