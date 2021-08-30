@@ -23,6 +23,7 @@ Pour afficher un morceau de code en HTML, nous utilisons la syntaxe suivante :
 Et voici l'interface dans la console tech.io.
 
 ```javascript
+<div id="inline_js_example">
 function createParagraph() {
   let para = document.createElement('p');
   para.textContent = 'Vous avez cliqué !';
@@ -31,6 +32,8 @@ function createParagraph() {
 ```
 ```html
 <button onclick="createParagraph()">Cliquez-moi!</button>
+</div>
+{{ EmbedLiveSample('inline_js_example', '100%', 150) }}
 ```
 
 
