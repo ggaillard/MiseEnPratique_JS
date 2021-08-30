@@ -33,12 +33,11 @@ function createParagraph() {
 ```html 
 <button onclick="createParagraph()">Cliquez-moi!</button>
 </div>
-
 ```
 
 test
 
-```html 
+```html running
 function createParagraph() {
   let para = document.createElement('p');
   para.textContent = 'Vous avez cliqué !';
