@@ -3,8 +3,25 @@
 # Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur l'ENT.  
 
 ## Afficher un morceau de code en Javacript
-Pour afficher un morceau de code, nous utilisons la syntaxe suivante :
+Pour afficher un morceau de code en javascript, nous utilisons la syntaxe suivante :
 ````
+```javascript
+function createParagraph() {
+  let para = document.createElement('p');
+  para.textContent = 'Vous avez cliqué !';
+  document.body.appendChild(para);
+}
+```
+````
+Pour afficher un morceau de code en HTML, nous utilisons la syntaxe suivante :
+
+````
+```html
+<button onclick="createParagraph()">Cliquez-moi!</button>
+```
+````
+Et voici l'interface dans la console tech.io.
+
 ```javascript
 function createParagraph() {
   let para = document.createElement('p');
@@ -14,8 +31,9 @@ function createParagraph() {
 ```
 ```html
 <button onclick="createParagraph()">Cliquez-moi!</button>
-````
-````
+```
+
+
 La méthode __console.log()__ envoie un message à la console Web. Le message peut être une chaîne unique  ou il peut s'agir d'un ou plusieurs objets JavaScript.
 
 ```javascript 
