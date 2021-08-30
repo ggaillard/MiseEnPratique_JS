@@ -30,13 +30,24 @@ function createParagraph() {
   document.body.appendChild(para);
 }
 ```
-```html runnable
+```html 
 <button onclick="createParagraph()">Cliquez-moi!</button>
 </div>
 
 ```
 
+test
 
+```html 
+function createParagraph() {
+  let para = document.createElement('p');
+  para.textContent = 'Vous avez cliqué !';
+  document.body.appendChild(para);
+}
+<button onclick="createParagraph()">Cliquez-moi!</button>
+</div>
+
+```
 La méthode __console.log()__ envoie un message à la console Web. Le message peut être une chaîne unique  ou il peut s'agir d'un ou plusieurs objets JavaScript.
 
 ```javascript 
