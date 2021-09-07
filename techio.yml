@@ -6,12 +6,9 @@ plan:
 - title: Pourquoi le langage Javascript
   statement: markdowns/PourquoiJavascript.md
   
-- title: Apprendre à compter
-  statement: markdowns/binaire.md
-  
-- title: Langages et OS
-  statement: markdowns/langages.md
-  
+- title: Environnement de développement
+  statement: markdowns/environnement.md
+   
 - title: Les variables
   statement: markdowns/lesVariables.md
 projects:
