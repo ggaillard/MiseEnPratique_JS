@@ -7,7 +7,7 @@ plan:
   statement: markdowns/PourquoiJavascript.md
   
 - title: Environnement de développement
-  statement: markdowns/environnement.md
+  statement: markdowns/Environnement.md
    
 - title: Les variables
   statement: markdowns/lesVariables.md
