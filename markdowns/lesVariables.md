@@ -21,8 +21,21 @@ function logEtude(){
 }
 
 logEtude();
+```
 
-var myName;
+
+
+```javascript runnable
+mondiplome = 'BTS';
+var maFormation = 'SIO';
+let maSpecialite = 'SLAM';
+function logEtude(){
+    console.log(mondiplome);
+    console.log(maFormation);
+    console.log(maSpecialite);
+}
+
+logEtude();
 ```
 ## Typage faible
 ```javascript
