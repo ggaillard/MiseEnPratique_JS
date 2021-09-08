@@ -11,32 +11,44 @@
 Voici un morceau de code avec la déclaration de variables
 
 ```javascript 
+mondiplome = 'IUT';
+var maFormation = 'INFO';
+let maSpecialite = 'DEV';
+if (x === 1) {
 mondiplome = 'BTS';
 var maFormation = 'SIO';
 let maSpecialite = 'SLAM';
-function logEtude(){
     console.log(mondiplome);
     console.log(maFormation);
     console.log(maSpecialite);
 }
-
-logEtude();
+console.log(" en dehors du bloc");
+console.log(mondiplome);
+    console.log(maFormation);
+    console.log(maSpecialite);
 ```
 
 
 
 ```javascript runnable
+mondiplome = 'IUT';
+var maFormation = 'INFO';
+let maSpecialite = 'DEV';
+if (x === 1) {
 mondiplome = 'BTS';
 var maFormation = 'SIO';
 let maSpecialite = 'SLAM';
-function logEtude(){
     console.log(mondiplome);
     console.log(maFormation);
     console.log(maSpecialite);
 }
+console.log(" en dehors du bloc");
+console.log(mondiplome);
+    console.log(maFormation);
+    console.log(maSpecialite);
 
-logEtude();
 ```
+
 ## Typage faible
 ```javascript
 var myNumber = '500'; // oops, c'est toujours une chaîne
