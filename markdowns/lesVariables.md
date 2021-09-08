@@ -11,10 +11,12 @@
 Voici un morceau de code avec la déclaration de variables
 
 ```javascript 
+const etude ="etude";
 mondiplome = 'IUT';
 var maFormation = 'INFO';
 let maSpecialite = 'DEV';
-if (x === 1) {
+
+if (etude == "etude") {
 mondiplome = 'BTS';
 var maFormation = 'SIO';
 let maSpecialite = 'SLAM';
@@ -22,8 +24,8 @@ let maSpecialite = 'SLAM';
     console.log(maFormation);
     console.log(maSpecialite);
 }
-console.log(" en dehors du bloc");
-console.log(mondiplome);
+    console.log(" en dehors du bloc");
+    console.log(mondiplome);
     console.log(maFormation);
     console.log(maSpecialite);
 ```
@@ -31,10 +33,12 @@ console.log(mondiplome);
 
 
 ```javascript runnable
+const etude ="etude";
 mondiplome = 'IUT';
 var maFormation = 'INFO';
 let maSpecialite = 'DEV';
-if (x === 1) {
+
+if (etude == "etude") {
 mondiplome = 'BTS';
 var maFormation = 'SIO';
 let maSpecialite = 'SLAM';
@@ -42,8 +46,8 @@ let maSpecialite = 'SLAM';
     console.log(maFormation);
     console.log(maSpecialite);
 }
-console.log(" en dehors du bloc");
-console.log(mondiplome);
+    console.log(" en dehors du bloc");
+    console.log(mondiplome);
     console.log(maFormation);
     console.log(maSpecialite);
 
