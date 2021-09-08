@@ -26,7 +26,9 @@ typeof(myNumber);
 ```
 Entrez ces quatre lignes dans la console les unes à la suite des autres, et voyez les résultats. Notez l'emploi de la fonction spéciale `typeof()` — elle renvoie le type de donnée placé dans la variable. À son premier appel, elle renverra `string`, car à ce stade la variable `myNumber` contient la chaîne `'500'`. Observez bien et voyez ce que la fonction renvoie au second appel.
 
-
+```javascript runnable
+// Typage faible
+```
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
 - __num__ qui contient le nombre 255  
 - __txt__ qui contient la chaîne de caractère *255*  
