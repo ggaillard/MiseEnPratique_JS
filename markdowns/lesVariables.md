@@ -11,9 +11,18 @@
 Voici un morceau de code avec la déclaration de variables
 
 ```javascript 
-var a = 2;
-var b = 6;
-console.log(a+b);
+mondiplome = 'BTS';
+var maFormation = 'SIO';
+let maSpecialite = 'SLAM';
+function logEtude(){
+    console.log(mondiplome);
+    console.log(maFormation);
+    console.log(maSpecialite);
+}
+
+logEtude();
+
+var myName;
 ```
 ## Typage faible
 ```javascript
