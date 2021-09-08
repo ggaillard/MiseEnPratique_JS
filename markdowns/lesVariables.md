@@ -15,10 +15,6 @@ var a = 2;
 var b = 6;
 console.log(a+b);
 ```
-## Types de variables
-
-...
-
 ## Typage faible
 ```javascript
 var myNumber = '500'; // oops, c'est toujours une chaîne
@@ -33,6 +29,9 @@ Entrez ces quatre lignes dans la console les unes à la suite des autres, et voy
 ```javascript runnable
 // Typage faible
 ```
+
+## Types de variables
+
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
 - `num`qui contient le nombre 255  
 - `txt` qui contient la chaîne de caractère *255*  
