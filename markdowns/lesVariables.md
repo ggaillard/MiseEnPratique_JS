@@ -15,7 +15,9 @@ var a = 2;
 var b = 6;
 console.log(a+b);
 ```
+## Types de variables
 
+...
 
 ## Typage faible
 ```javascript
@@ -32,10 +34,10 @@ Entrez ces quatre lignes dans la console les unes à la suite des autres, et voy
 // Typage faible
 ```
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
-- __num__ qui contient le nombre 255  
-- __txt__ qui contient la chaîne de caractère *255*  
-- __bin__ qui contient la valeur booléenne *vraie*  
-- __flt__ qui contient la valeur 7,23  
+- `num`qui contient le nombre 255  
+- `txt` qui contient la chaîne de caractère *255*  
+- `bin` qui contient la valeur booléenne *vraie*  
+- `flt` qui contient la valeur 7,23  
 
 @[Créez les variables demandées ci-dessus]({ "stubs": ["variables01.js"], "command": "node_modules/mocha/bin/mocha test_variables01.js --reporter list" })
 
