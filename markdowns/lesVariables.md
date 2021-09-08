@@ -79,3 +79,5 @@ Dans l'exercice ci-dessous vous devez créer les variables suivantes :
 @[Créez les variables demandées ci-dessus]({ "stubs": ["variables01.js"], "command": "node_modules/mocha/bin/mocha test_variables01.js --reporter list" })
 
 ## Opération sur les variables
+
+...
