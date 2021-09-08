@@ -20,7 +20,9 @@ console.log(a+b);
 ## Typage faible
 ```javascript
 var myNumber = '500'; // oops, c'est toujours une chaîne
-typeof(myNumber);
+console.log((typeof(myNumber));
+```
+```javascript
 myNumber = 500; // mieux — maintenant c'est un nombre
 typeof(myNumber);
 ```
