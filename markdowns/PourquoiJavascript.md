@@ -1,6 +1,7 @@
 # Pourquoi Javascript est toujours aussi utilisé
 
 # Les [supports du cours](cours_Pourquoi_Javascript.md) est disponible sur l'ENT.
+# Les [supports du cours](intro.md) est disponible sur l'ENT.
 
 ?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
 -[ ] La diode
