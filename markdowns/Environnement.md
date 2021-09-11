@@ -13,7 +13,7 @@ En Javascript, la méthode __console.log()__ envoie un message à la console Web
 ```javascript 
 console.log('Hello World!');
 ```
-Pour une utilisation de base, vous pouvez rendre un simple morceau de code exécutable. Pour cela, vous devez ajouter lemot - clé : `runnable`
+Pour une utilisation de base, vous pouvez rendre un simple morceau de code exécutable. Pour cela, vous devez ajouter le mot - clé : `runnable`
 
 ````
 ```javascript runnable
