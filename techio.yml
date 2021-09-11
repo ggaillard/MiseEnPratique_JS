@@ -12,7 +12,8 @@ plan:
 - title: Les variables
   statement: markdowns/lesVariables.md
   
-   statement: markdowns/cours_Pourquoi_Javascript.md
+  statement: markdowns/cours_Pourquoi_Javascript.md
+  
 projects:
    nodejs:
      root: /js_project
