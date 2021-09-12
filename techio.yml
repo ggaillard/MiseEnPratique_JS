@@ -2,16 +2,16 @@ title: Javascript par la pratique
 plan:
 - title: Introduction
   statement: markdowns/intro.md
-  
+
 - title: Pourquoi le langage Javascript
-  statement: markdowns/PourquoiJavascript.md
-  
+  statement: js_project/PourquoiJavascript.md
+
 - title: Environnement de développement
   statement: markdowns/Environnement.md
-   
+
 - title: Les variables
   statement: markdowns/lesVariables.md
-  
+
 projects:
    nodejs:
      root: /js_project
