@@ -1,4 +1,4 @@
-# Exercices sur l'histoire et les principes de l'informatique
+# Pratique des concepts Javacript à travers Tech.io
 
-Ces exercices sont écrits pour le [cours](http://ens-info.irem.univ-mrs.fr/?p=26) d'ISN/ICN de Valéry Bruniaux (Lycée Arthur Rimbaud - Istres)
+
 
