@@ -9,5 +9,5 @@
 -[ ] La résistance
 -[ ] Le condensateur
 
-
+@[Support de cours à lancer ]({"layout": "aside", "stubs": ["src/cours_Pourquoi_Javascript.js","src/cours_Pourquoi_Javascript.html","src/cours_Pourquoi_Javascript.css"], "command": "echo "TECHIO> open -s /project/target/ src/cours_Pourquoi_Javascript.html"" })
 
