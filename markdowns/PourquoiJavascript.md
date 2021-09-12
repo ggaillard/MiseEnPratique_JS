@@ -2,7 +2,9 @@
 
 # Quelques concepts de base
 
-@[Support de cours à lancer ]({"layout": "aside", "stubs": ["cours_Pourquoi_Javacript.js", "cours_Pourquoi_Javacript.html", "cours_Pourquoi_Javacript.css"], "command": "echo "TECHIO> open -s /project/target/ cours_Pourquoi_Javacript.html"" })
+
+
+@[Exercice 3]({"layout": "aside", "stubs": ["exo3/src/index.js", "exo3/src/index.html", "exo3/src/style.css"], "command": "echo "TECHIO> open -s /project/target/ exo3/src/index.html"" })
 
 ?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
 -[ ] La diode
