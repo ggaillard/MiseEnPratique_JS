@@ -2,4 +2,4 @@
 
 ## Pourquoi Javascript
 
-@[Launch the server]({ "stubs": [cours_Pourquoi_Javascript.js", "cours_Pourquoi_Javascript.html", "cours_Pourquoi_Javascript.css"], "command": "node server.js" })
+@[Launch the server]({ "stubs": [src/cours_Pourquoi_Javascript.js", "src/cours_Pourquoi_Javascript.html", "src/cours_Pourquoi_Javascript.css"], "command": "node server.js" })
