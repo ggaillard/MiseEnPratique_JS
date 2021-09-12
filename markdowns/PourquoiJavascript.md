@@ -2,6 +2,7 @@
 
 # Les [supports du cours](TECHIO> open -s /project/target/markdowns/cours_Pourquoi_Javascript.md) est disponible sur l'ENT.
 
+@[Support de cours à lancer ]({"layout": "aside", "stubs": ["markdowns/www/cours_Pourquoi_Javacript.js", "markdowns/www/cours_Pourquoi_Javacript.html", "markdowns/www/cours_Pourquoi_Javacript.css"], "command": "echo "TECHIO> open -s /project/target/ markdowns/www/cours_Pourquoi_Javacript.html"" })
 
 ?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
 -[ ] La diode
