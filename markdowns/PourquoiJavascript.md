@@ -10,6 +10,6 @@
 -[ ] Le condensateur
 
 
-@[Support de cours à lancer ]({"layout": "aside", "stubs": ["cours_Pourquoi_Javascript.js", "cours_Pourquoi_Javascript.html"], "command": "echo "TECHIO> open -s /project/target/ cours_Pourquoi_Javascript.html"" })
+@[Support de cours à lancer ]({"layout": "aside", "stubs": ["cours_Pourquoi_Javascript.js", "cours_Pourquoi_Javascript.html", "cours_Pourquoi_Javascript.css"], "command": "echo "TECHIO> open -s /project/target/ cours_Pourquoi_Javascript.html"" })
 
 
